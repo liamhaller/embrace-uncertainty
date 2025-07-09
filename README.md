@@ -2,13 +2,6 @@
 
 This repository contains R code and analysis for "A Call to Embrace Uncertainty: Rethinking Statistical Inference in Migration Research," which compares Bayesian and frequentist approaches using Turkish migration aspiration data from the EUMAGINE project.
 
-## Overview
-
-The paper demonstrates how Bayesian methods can address key limitations of frequentist statistics in migration research by:
-- Directly quantifying hypothesis probabilities rather than producing binary significance tests
-- Incorporating prior knowledge from existing literature into statistical models
-- Providing intuitive uncertainty quantification for policy communication
-
 ## Replication
 
 ### Data Requirements
